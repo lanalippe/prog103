@@ -4,7 +4,10 @@
 
 ### Before class
 
-See [details about this module](https://marinecs-100b.github.io/tracks/prog/prog103.html) on the course website. Guided notes are in 'PROG103 Guided Notes.pdf'. Take notes directly on the guided notes, either by annotating the PDF or printing them out.
+See [details about this module](https://marinecs-100b.github.io/tracks/prog/prog103.html) on the course website. 
+
+- Guided notes are in 'PROG103 Guided Notes.pdf'. Take notes directly on the guided notes, either by annotating the PDF or printing them out.
+- Exercises are in prog103exercises.R
 
 ### In class
 
